@@ -1,3 +1,7 @@
+// Binary Search Recursive Implementation
+// Time Complexity: O(log n)
+// Space Complexity: O(log n) - Due to recursion call stack
+
 #include <bits/stdc++.h>
 using namespace std;
 
