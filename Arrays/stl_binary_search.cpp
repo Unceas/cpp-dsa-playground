@@ -1,3 +1,7 @@
+// STL Binary Search using binary_search()
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
 #include <bits/stdc++.h>
 using namespace std;
 
