@@ -7,6 +7,7 @@ A structured repository to practice **Data Structures & Algorithms in C++**, wit
 - `Arrays/`
   - `max_element.cpp` – Find maximum element in an array
   - `linear_search.cpp` – Search for an element linearly
+  -   - `two_sum.cpp` - Find indices of two numbers whose sum equals target
 - Linear Search
   - Binary Search (Iterative & Recursive)
   - Binary Search using STL
