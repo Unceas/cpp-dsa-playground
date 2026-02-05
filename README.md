@@ -11,6 +11,8 @@ A structured repository to practice **Data Structures & Algorithms in C++**, wit
 - Linear Search
   - Binary Search (Iterative & Recursive)
   - Binary Search using STL
+  - - "Strings/"
+  - `reverse_string.cpp` - Reverse a string using two-pointer technique
 ## Features
 
 - Clean, beginner-friendly C++ code
@@ -37,5 +39,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Trees
 - Graphs
 - Dynamic Programming
+
+### Strings
+- Reverse String (Two Pointer Technique)
+
 
 > 📌 Repository updated regularly as new problems are solved.
