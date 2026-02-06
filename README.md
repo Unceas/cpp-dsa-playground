@@ -13,6 +13,7 @@ A structured repository to practice **Data Structures & Algorithms in C++**, wit
   - Binary Search using STL
   - - "Strings/"
   - `reverse_string.cpp` - Reverse a string using two-pointer technique
+  -   - "palindrome_check.cpp" - Palindrome Check
 ## Features
 
 - Clean, beginner-friendly C++ code
