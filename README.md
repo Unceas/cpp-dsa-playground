@@ -15,6 +15,7 @@ A structured repository to practice **Data Structures & Algorithms in C++**, wit
   - `reverse_string.cpp` - Reverse a string using two-pointer technique
   -   - "palindrome_check.cpp" - Palindrome Check
       -   - "valid_palindrome.cpp" - Valid Palindrome (Ignoring non-alphanumeric characters)
+          -   - "first_non_repeating_char.cpp" - First Non-Repeating Character
 ## Features
 
 - Clean, beginner-friendly C++ code
