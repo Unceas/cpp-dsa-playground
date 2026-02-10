@@ -32,6 +32,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 ./linear_search
 ```
 
+
+### Linked List
+- Singly Linked List (Creation & Traversal)
 ## Planned Topics
 
 - Arrays
