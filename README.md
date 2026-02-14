@@ -37,6 +37,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Singly Linked List (Creation & Traversal)
 - - Insert at End
   - - Delete Node by Value
+   
+    - ### Stack
+- Stack using STL
 ## Planned Topics
 
 - Arrays
