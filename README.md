@@ -42,6 +42,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Stack using STL
 - - Stack using Array (Manual Implementation)
 - - Valid Parentheses (Stack Application)
+ 
+  - ### Queue
+- Queue using STL
 ## Planned Topics
 
 - Arrays
