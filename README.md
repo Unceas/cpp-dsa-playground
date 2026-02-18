@@ -45,6 +45,7 @@ g++ Arrays/linear_search.cpp -o linear_search
  
   - ### Queue
 - Queue using STL
+- - Queue using Array (Manual Implementation)
 ## Planned Topics
 
 - Arrays
