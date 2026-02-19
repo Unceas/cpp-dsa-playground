@@ -46,6 +46,9 @@ g++ Arrays/linear_search.cpp -o linear_search
   - ### Queue
 - Queue using STL
 - - Queue using Array (Manual Implementation)
+ 
+  - - ### Tree
+- Binary Tree (Structure + Inorder Traversal)
 ## Planned Topics
 
 - Arrays
