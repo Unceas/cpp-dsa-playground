@@ -52,6 +52,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - - Binary Search Tree (Insert + Inorder)
 - - Preorder Traversal
   - - Postorder Traversal
+    - - - Level Order Traversal (BFS)
 ## Planned Topics
 
 - Arrays
