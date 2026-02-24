@@ -54,6 +54,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - - Preorder Traversal
   - - Postorder Traversal
     - - - Level Order Traversal (BFS)
+        - - - BST Delete (All 3 cases handled)
 ## Planned Topics
 
 - Arrays
