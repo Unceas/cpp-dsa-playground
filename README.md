@@ -69,5 +69,8 @@ g++ Arrays/linear_search.cpp -o linear_search
 ### Strings
 - Reverse String (Two Pointer Technique)
 
+- ### Graph
+- DFS Traversal (Adjacency List)
+
 
 > 📌 Repository updated regularly as new problems are solved.
