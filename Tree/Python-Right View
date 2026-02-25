@@ -1,0 +1,96 @@
+class TreeNode:
+    """
+    Definition for a binary tree node.
+    """
+    def __init__(self, val: int = 0,
+                 left: Optional["TreeNode"] = None,
+                 right: Optional["TreeNode"] = None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
+class Solution:
+    """
+    Provides methods to compute the right side view of a binary tree.
+    """
+
+    # -------------------------
+    # Method 1: DFS (Preferred)
+    # -------------------------
+    def rightSideViewDFS(self, root: Optional[TreeNode]) -> List[int]:
+        """
+        Returns right side view using Depth-First Search.
+        Traverses right subtree first to capture first node at each depth.
+        """
+        result: List[int] = []
+
+        def dfs(node: Optional[TreeNode], depth: int) -> None:
+            if not node:
+                return
+
+            # If this is the first time reaching this depth
+            if depth == len(result):
+                result.append(node.val)
+
+            # Visit right subtree first
+            dfs(node.right, depth + 1)
+            dfs(node.left, depth + 1)
+
+        dfs(root, 0)
+        return result
+
+    # -------------------------
+    # Method 2: BFS
+    # -------------------------
+    def rightSideViewBFS(self, root: Optional[TreeNode]) -> List[int]:
+        """
+        Returns right side view using Breadth-First Search.
+        Captures the last node at each level.
+        """
+        if not root:
+            return []
+
+        result: List[int] = []
+        queue = deque([root])
+
+        while queue:
+            level_size = len(queue)
+
+            for i in range(level_size):
+                node = queue.popleft()
+
+                # If it's the last node in this level
+                if i == level_size - 1:
+                    result.append(node.val)
+
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+
+        return result
+
+
+# -------------------------
+# Example Usage (Local Test)
+# -------------------------
+if __name__ == "__main__":
+    # Construct the example tree:
+    #
+    #         1
+    #       /   \
+    #      2     3
+    #       \     \
+    #        5     4
+    #
+    root = TreeNode(1)
+    root.left = TreeNode(2)
+    root.right = TreeNode(3)
+    root.left.right = TreeNode(5)
+    root.right.right = TreeNode(4)
+
+    solution = Solution()
+
+    print("DFS Right Side View:", solution.rightSideViewDFS(root))
+    print("BFS Right Side View:", solution.rightSideViewBFS(root))
