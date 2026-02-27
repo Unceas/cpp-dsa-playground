@@ -71,6 +71,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 - ### Graph
 - DFS Traversal (Adjacency List)
-
+- BFS Traversal (Queue)
+- Cycle Detection in Undirected Graph (DFS)
 
 > 📌 Repository updated regularly as new problems are solved.
