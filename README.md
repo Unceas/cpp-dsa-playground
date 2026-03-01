@@ -74,5 +74,6 @@ g++ Arrays/linear_search.cpp -o linear_search
 - BFS Traversal (Queue)
 - Cycle Detection in Undirected Graph (DFS)
 - Topological Sort (DFS-based)
+- Topological Sort (Kahn's Algorithm - BFS)
 
 > 📌 Repository updated regularly as new problems are solved.
