@@ -76,4 +76,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Topological Sort (DFS-based)
 - Topological Sort (Kahn's Algorithm - BFS)
 
+- ### Dynamic Programming
+- 0/1 Knapsack (Tabulation)
+
 > 📌 Repository updated regularly as new problems are solved.
