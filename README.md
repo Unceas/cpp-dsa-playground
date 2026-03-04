@@ -78,6 +78,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
-- - Longest Common Subsequence (LCS)
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
 
 > 📌 Repository updated regularly as new problems are solved.
