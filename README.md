@@ -75,6 +75,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Cycle Detection in Undirected Graph (DFS)
 - Topological Sort (DFS-based)
 - Topological Sort (Kahn's Algorithm - BFS)
+- Dijkstra’s Shortest Path (Priority Queue)
 
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
