@@ -76,6 +76,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Topological Sort (DFS-based)
 - Topological Sort (Kahn's Algorithm - BFS)
 - Dijkstra’s Shortest Path (Priority Queue)
+- Bellman–Ford Shortest Path (Negative Weights)
 
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
