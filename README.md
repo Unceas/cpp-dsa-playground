@@ -79,6 +79,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Bellman–Ford Shortest Path (Negative Weights)
 - Kruskal's Minimum Spanning Tree (Union-Find)
 - Prim's Minimum Spanning Tree (Priority Queue)
+- Floyd–Warshall Algorithm (All-Pairs Shortest Path)
 
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
