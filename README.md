@@ -80,6 +80,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Kruskal's Minimum Spanning Tree (Union-Find)
 - Prim's Minimum Spanning Tree (Priority Queue)
 - Floyd–Warshall Algorithm (All-Pairs Shortest Path)
+- Disjoint Set Union with path compression and union by rank
 
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
