@@ -82,6 +82,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Floyd–Warshall Algorithm (All-Pairs Shortest Path)
 - Disjoint Set Union with path compression and union by rank
 
+### Backtracking
+- N Queens Problem
+
 - ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
 - Longest Common Subsequence (LCS)
