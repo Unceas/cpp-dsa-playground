@@ -74,7 +74,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 ### Backtracking
 - N Queens Problem
 
-- ### Dynamic Programming
+### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
 - Longest Common Subsequence (LCS)
 - Longest Increasing Subsequence (LIS)
