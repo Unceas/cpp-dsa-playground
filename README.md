@@ -22,6 +22,17 @@ A structured repository to practice **Data Structures & Algorithms in C++**, wit
 - Time and space complexity for each solution
 - Uses standard C++ and STL where helpful
 
+## Planned Topics
+- Arrays
+- Strings
+- Recursion
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+- Backtracking
+- Dynamic Programming
+
 ## How to Run
 
 ```bash
@@ -35,36 +46,27 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Linked List
 - Singly Linked List (Creation & Traversal)
-- - Insert at End
-  - - Delete Node by Value
+- Insert at End
+- Delete Node by Value
    
-    - ### Stack
+### Stack
 - Stack using STL
-- - Stack using Array (Manual Implementation)
-- - Valid Parentheses (Stack Application)
+- Stack using Array (Manual Implementation)
+- Valid Parentheses (Stack Application)
  
-  - ### Queue
+### Queue
 - Queue using STL
-- - Queue using Array (Manual Implementation)
+- Queue using Array (Manual Implementation)
  
-  - - ### Tree
+### Tree
 - Binary Tree (Structure + Inorder Traversal)
-- - Binary Search Tree (Insert + Inorder)
-  - - - BST Search
-- - Preorder Traversal
-  - - Postorder Traversal
-    - - - Level Order Traversal (BFS)
-        - - - BST Delete (All 3 cases handled)
-## Planned Topics
+- Binary Search Tree (Insert + Inorder)
+- BST Search
+- Preorder Traversal
+- Postorder Traversal
+- Level Order Traversal (BFS)
+- BST Delete (All 3 cases handled)
 
-- Arrays
-- Strings
-- Recursion
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
 
 ### Strings
 - Reverse String (Two Pointer Technique)
