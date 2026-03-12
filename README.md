@@ -58,7 +58,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 ### Strings
 - Reverse String (Two Pointer Technique)
 
-- ### Graph
+### Graph
 - DFS Traversal (Adjacency List)
 - BFS Traversal (Queue)
 - Cycle Detection in Undirected Graph (DFS)
