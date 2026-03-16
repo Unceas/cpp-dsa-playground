@@ -82,4 +82,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Longest Common Subsequence (LCS)
 - Longest Increasing Subsequence (LIS)
 
+### Segment Tree
+- Range Sum Query using Segment Tree
+
 > 📌 Repository updated regularly as new problems are solved.
