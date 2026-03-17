@@ -84,5 +84,6 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Segment Tree
 - Range Sum Query using Segment Tree
+- Fenwick Tree (Binary Indexed Tree)
 
 > 📌 Repository updated regularly as new problems are solved.
