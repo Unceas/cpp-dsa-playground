@@ -2,6 +2,15 @@
 
 A structured repository to practice **Data Structures & Algorithms in C++**, with clean implementations and detailed complexity analysis.
 
+## Overview
+A structured collection of Data Structures and Algorithms implemented in C++.
+
+Includes:
+- Graph algorithms
+- Dynamic Programming
+- Trees and BST
+- Advanced data structures (Segment Tree, Trie, etc.)
+
 
 ## Features
 
