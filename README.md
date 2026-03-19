@@ -29,6 +29,16 @@ Includes:
 - Backtracking
 - Dynamic Programming
 
+## Topics Covered
+- Arrays
+- Strings
+- Linked List
+- Stack & Queue
+- Trees & BST
+- Graphs
+- Dynamic Programming
+- Advanced Data Structures
+
 ## How to Run
 
 ```bash
