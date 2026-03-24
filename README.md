@@ -105,4 +105,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Range Sum Query using Segment Tree
 - Fenwick Tree (Binary Indexed Tree)
 
+### Sliding Window
+- Longest Substring Without Repeating Characters
+
 > 📌 Repository updated regularly as new problems are solved.
