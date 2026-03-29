@@ -101,6 +101,8 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Longest Common Subsequence (LCS)
 - Longest Increasing Subsequence (LIS)
 
+### Binary Search
+- Search in Rotated Sorted Array
 ### Segment Tree
 - Range Sum Query using Segment Tree
 - Fenwick Tree (Binary Indexed Tree)
