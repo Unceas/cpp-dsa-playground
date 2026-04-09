@@ -93,6 +93,9 @@ g++ Arrays/linear_search.cpp -o linear_search
 ### Backtracking
 - N Queens Problem
 
+### Heap
+- Kth Largest Element
+
 ### Trie
 - Trie Insert and Search
 
