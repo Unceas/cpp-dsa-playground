@@ -73,7 +73,6 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Level Order Traversal (BFS)
 - BST Delete (All 3 cases handled)
 
-
 ### Strings
 - Reverse String (Two Pointer Technique)
 
@@ -107,6 +106,12 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Binary Search
 - Search in Rotated Sorted Array
+
+### Greedy
+- Minimum Platforms Required
+- Activity Selection
+- Fractional Knapsack
+
 ### Segment Tree
 - Range Sum Query using Segment Tree
 - Fenwick Tree (Binary Indexed Tree)
