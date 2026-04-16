@@ -118,5 +118,6 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Sliding Window
 - Longest Substring Without Repeating Characters
+- Longest subarray with sum k
 
 > 📌 Repository updated regularly as new problems are solved.
