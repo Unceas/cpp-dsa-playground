@@ -106,6 +106,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Binary Search
 - Search in Rotated Sorted Array
+- Lower bound and Upper bound
 
 ### Greedy
 - Minimum Platforms Required
