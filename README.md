@@ -112,6 +112,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Minimum Platforms Required
 - Activity Selection
 - Fractional Knapsack
+- Job Sequencing for Maximum Profit
 
 ### Segment Tree
 - Range Sum Query using Segment Tree
