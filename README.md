@@ -95,6 +95,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 ### Heap
 - Kth Largest Element
 - Merge K Sorted Arrays
+- Merge K Sorted Lists
 
 ### Trie
 - Trie Insert and Search
