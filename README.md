@@ -109,6 +109,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Search in Rotated Sorted Array
 - Lower bound and Upper bound
 - Koko eating bananas
+- Find Peak Element
 
 ### Greedy
 - Minimum Platforms Required
