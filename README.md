@@ -110,6 +110,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Lower bound and Upper bound
 - Koko eating bananas
 - Find Peak Element
+- Search in 2D matrix
 
 ### Greedy
 - Minimum Platforms Required
