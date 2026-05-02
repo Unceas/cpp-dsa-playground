@@ -118,6 +118,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Fractional Knapsack
 - Job Sequencing for Maximum Profit
 - Minimum Coins
+- Gas Station Problem
 
 ### Segment Tree
 - Range Sum Query using Segment Tree
