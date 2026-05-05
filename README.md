@@ -119,6 +119,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Job Sequencing for Maximum Profit
 - Minimum Coins
 - Gas Station Problem
+- Jump Game
 
 ### Segment Tree
 - Range Sum Query using Segment Tree
