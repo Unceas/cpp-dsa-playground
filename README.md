@@ -111,6 +111,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Koko eating bananas
 - Find Peak Element
 - Search in 2D matrix
+- Median of Two Sorted Arrays
 
 ### Greedy
 - Minimum Platforms Required
