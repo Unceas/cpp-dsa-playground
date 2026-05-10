@@ -96,6 +96,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Kth Largest Element
 - Merge K Sorted Arrays
 - Merge K Sorted Lists
+- Task Scheduler
 
 ### Trie
 - Trie Insert and Search
