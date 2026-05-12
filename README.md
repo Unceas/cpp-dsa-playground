@@ -60,6 +60,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Stack using Array (Manual Implementation)
 - Valid Parentheses (Stack Application)
 - Largest Rectangle In Histogram
+- Min Stack
  
 ### Queue
 - Queue using STL
