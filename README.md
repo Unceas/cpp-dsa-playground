@@ -90,6 +90,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Prim's Minimum Spanning Tree (Priority Queue)
 - Floyd–Warshall Algorithm (All-Pairs Shortest Path)
 - Disjoint Set Union with path compression and union by rank
+- Number of Islands (DFS)
 
 ### Backtracking
 - N Queens Problem
