@@ -91,6 +91,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 - Floyd–Warshall Algorithm (All-Pairs Shortest Path)
 - Disjoint Set Union with path compression and union by rank
 - Number of Islands (DFS)
+- Course Schedule
 
 ### Backtracking
 - N Queens Problem
