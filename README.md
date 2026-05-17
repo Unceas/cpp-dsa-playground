@@ -105,6 +105,7 @@ g++ Arrays/linear_search.cpp -o linear_search
 
 ### Trie
 - Trie Insert and Search
+- Implement Trie (Prefix Tree)
 
 ### Dynamic Programming
 - 0/1 Knapsack (Tabulation)
